@@ -3,3 +3,11 @@
   height: 30px;
   line-height: 32px;
 }
+
+.status {
+  color: green;
+}
+
+.limit_red {
+  color: red;
+}
